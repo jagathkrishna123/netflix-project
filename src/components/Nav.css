@@ -1,0 +1,14 @@
+.nav{
+    width: 100%;
+    top: 0px;
+    position: fixed;
+    padding-left: 0.3rem;
+    padding-top: 0.6rem;
+    z-index: 100;
+    background: transparent;
+}
+.nav img{
+    background: transparent;
+    /* position: relative; */
+    background-color: transparent;
+}
